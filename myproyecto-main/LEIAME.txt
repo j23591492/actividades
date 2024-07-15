@@ -1,0 +1,4 @@
+o Git/Github é o Máximo!
+
+Git config --global user.name "jhoselith q.vicent"
+Git config --global user.email miobashanele@gmail.com
